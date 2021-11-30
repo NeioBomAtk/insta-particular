@@ -35,3 +35,45 @@
     padding: 4%;
     font-size: 25px;
 }
+
+.img-profile{
+    border-radius: 100%;
+    -o-border-radius: 100%;
+    -webkit-border-radius: 100%;
+    -moz-border-radius: 100%;
+    max-width: 200px;
+    max-height: 150px;
+}
+
+.usermane{
+    font-weight: 300px; font-size: 28px;
+}
+
+.button-edit{
+    color: black !important;
+    font-size: 14px !important;
+    font-weight: 600 !important;
+    border-color: #dae1e7 !important;
+}
+
+.btn{
+    padding: .100rem .50rem !important;
+}
+
+.profile-datas{
+    font-size: 14px;
+}
+
+.neme{
+    font-size: 16px; display: inline; font-weight: 600 !important;
+}
+
+.profile-desc{
+    font-size: 16px;
+}
+
+.stories{
+    text-align: center;
+    font-size: 15px;
+    font-weight: 600;
+}
