@@ -9,8 +9,8 @@ body {
 .nav-top {
     height: 63px; 
     background-color: white !important; 
-    border-top:0.5px solid #dbdbdb; 
-    border-bottom:1px solid #dbdbdb;
+    border-top:0.5px solid #dbdbdb !important; 
+    border-bottom:1px solid #dbdbdb !important;
 }
 
 .nav-container {
