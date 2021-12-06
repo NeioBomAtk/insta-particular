@@ -18,26 +18,51 @@ body {
     padding-right: 25% !important;
 }
 
-@media screen and (max-width: 1440px) {
+@media screen and (max-width: 1605px) {
     .nav-top {
         padding-left: 10% !important; 
         padding-right: 10% !important;
     }
   }
-@media screen and (max-width: 1440px) {
+@media screen and (max-width: 1605px) {
     .nav-container {
         padding-left: 20% !important; 
         padding-right: 20% !important;
     }
   }
 
-@media screen and (max-width: 900px) {
+@media screen and (max-width: 992px) {
     .nav-top {
         padding-left: 5% !important; 
         padding-right: 5% !important;
     }
 }
-@media screen and (max-width: 900px) {
+@media screen and (max-width: 992px) {
+    .nav-container {
+        padding-left: 5% !important; 
+        padding-right: 5% !important;
+    }
+}
+@media screen and (min-width: 740px) {
+    .nav-top {
+        padding-left: 10% !important; 
+        padding-right: 10% !important;
+    }
+  }
+@media screen and (min-width: 740px) {
+    .nav-container {
+        padding-left: 20% !important; 
+        padding-right: 20% !important;
+    }
+  }
+
+@media screen and (min-width: 540px) {
+    .nav-top {
+        padding-left: 5% !important; 
+        padding-right: 5% !important;
+    }
+}
+@media screen and (min-width: 540px) {
     .nav-container {
         padding-left: 5% !important; 
         padding-right: 5% !important;
