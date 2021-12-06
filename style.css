@@ -18,26 +18,26 @@ body {
     padding-right: 25% !important;
 }
 
-@media screen and (max-width: 1605px) {
+@media screen and (max-width: 1440px) {
     .nav-top {
         padding-left: 10% !important; 
         padding-right: 10% !important;
     }
   }
-@media screen and (max-width: 1605px) {
+@media screen and (max-width: 1440px) {
     .nav-container {
         padding-left: 20% !important; 
         padding-right: 20% !important;
     }
   }
 
-@media screen and (max-width: 992px) {
+@media screen and (max-width: 900px) {
     .nav-top {
         padding-left: 5% !important; 
         padding-right: 5% !important;
     }
 }
-@media screen and (max-width: 992px) {
+@media screen and (max-width: 900px) {
     .nav-container {
         padding-left: 5% !important; 
         padding-right: 5% !important;
