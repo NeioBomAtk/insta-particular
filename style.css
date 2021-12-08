@@ -1,8 +1,7 @@
 body {
-    height: 100vh;
     background: url("images/foto-instagram01.png") top center;
     background-attachment: fixed;
-    background-size: 99%;
+    background-size: 99%;/**/
     background-repeat: no-repeat;
     
   }
