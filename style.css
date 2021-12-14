@@ -96,16 +96,6 @@
     font-size: 12px;
     font-weight: 600;
 }
-.nav-link-3 {
-    color: rgb(228, 71, 32);
-    background-color: #fafafa !important;
-    border-color: #fff #fff #fff !important;
-    border-top-right-radius: .0rem !important;
-    border-top-left-radius: .0rem !important;
-    font-size: 12px;
-    font-weight: 600;
-}
-
 
 .card {
     border: 0px solid rgba(0,0,0,.125) !important;
